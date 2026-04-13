@@ -152,7 +152,7 @@ O mapeamento abaixo descreve a rede de influência ao redor da solução:
 
 # Personas e Mapas de Empatia
 
-Este documento apresenta as personas identificadas no projeto, juntamente com seus respectivos mapas de empatia, representando os principais usuários da solução.
+Este documento apresenta as personas identificadas no projeto, juntamente com seus respectivos mapas de empatia, representando os principais usuários da solução
 
 ---
 
@@ -164,20 +164,24 @@ Este documento apresenta as personas identificadas no projeto, juntamente com se
 **Ocupação:** Trabalhadora Informal (Manicure)
 
 ## Bio
+
 Rafaela é uma trabalhadora informal que atua como manicure e busca estabilidade financeira para sustentar sua família. Utiliza o celular como principal ferramenta no dia a dia.
 
 ## Objetivos
+
 - Estabilidade financeira  
 - Melhorar a vida dos filhos  
 - Entender seus direitos  
 - Organizar sua renda  
 
 ## Dores
+
 - Dificuldade com burocracia  
 - Informações confusas  
 - Falta de clareza sobre direitos  
 
 ## Objetos e Lugares
+
 - Smartphone Android  
 - WhatsApp, Instagram, Google, YouTube  
 - CRAS e postos da prefeitura  
@@ -192,24 +196,29 @@ Rafaela é uma trabalhadora informal que atua como manicure e busca estabilidade
 - Filas e burocracia  
 
 ### Ouve
+
 - Conselhos de vizinhos e familiares  
 - Informações sobre benefícios  
 
 ### Pensa e sente
+
 - Preocupação financeira  
 - Insegurança  
 - Desejo de estabilidade  
 
 ### Fala e faz
+
 - Busca ajuda de conhecidos  
 - Usa celular para aprender  
 - Trabalha diariamente  
 
 ### Dores
+
 - Processos complicados  
 - Falta de clareza  
 
 ### Ganhos
+
 - Segurança financeira  
 - Autonomia  
 - Facilidade no acesso à informação  
@@ -227,16 +236,19 @@ Rafaela é uma trabalhadora informal que atua como manicure e busca estabilidade
 Sônia é aposentada e depende de sua renda para sobreviver. Possui dificuldade com tecnologia, mas deseja ser mais independente.
 
 ## Objetivos
+
 - Acessar aposentadoria com facilidade  
 - Ter autonomia  
 - Entender processos  
 
 ## Dores
+
 - Dificuldade com tecnologia  
 - Dependência de terceiros  
 - Sistemas complexos  
 
 ## Objetos e Lugares
+
 - Smartphone antigo  
 - WhatsApp, Facebook  
 - Lotérica, Caixa, postos de saúde  
@@ -246,29 +258,35 @@ Sônia é aposentada e depende de sua renda para sobreviver. Possui dificuldade 
 ## Mapa de Empatia — Sônia
 
 ### Vê
+
 - Pessoas usando tecnologia com facilidade  
 - Informações difíceis de entender  
 
 ### Ouve
+
 - Ajuda de filhos e netos  
 - Informações sobre benefícios  
 
 ### Pensa e sente
+
 - Insegurança  
 - Medo de errar  
 - Desejo de independência  
 
 ### Fala e faz
+
 - Pede ajuda  
 - Evita tecnologia  
 - Resolve presencialmente  
 
 ### Dores
+
 - Processos difíceis  
 - Falta de clareza  
 - Dependência  
 
 ### Ganhos
+
 - Autonomia  
 - Tranquilidade  
 - Facilidade de uso  
@@ -283,6 +301,7 @@ Sônia é aposentada e depende de sua renda para sobreviver. Possui dificuldade 
 **Ocupação:** Agricultor  
 
 ## Bio
+
 Jailson é agricultor e prefere soluções práticas. Não tem familiaridade com tecnologia, mas precisa dela para acessar benefícios.
 
 ## Objetivos
@@ -291,11 +310,13 @@ Jailson é agricultor e prefere soluções práticas. Não tem familiaridade com
 - Comprar um lote  
 
 ## Dores
+
 - Dificuldade com tecnologia  
 - Sistemas lentos  
 - Processos longos  
 
 ## Objetos e Lugares
+
 - Smartphone antigo  
 - Uso ocasional  
 - TV, rádio  
@@ -306,29 +327,35 @@ Jailson é agricultor e prefere soluções práticas. Não tem familiaridade com
 ## Mapa de Empatia — Jailson
 
 ### Vê
+
 - Falta de acesso fácil a serviços  
 - Pessoas com mais facilidade digital  
 
 ### Ouve
+
 - Orientações de familiares  
 - Informações sobre benefícios  
 
 ### Pensa e sente
+
 - Frustração com tecnologia  
 - Desejo de praticidade  
 - Cansaço do trabalho  
 
 ### Fala e faz
+
 - Prefere soluções diretas  
 - Evita tecnologia  
 - Busca ajuda quando necessário  
 
 ### Dores
+
 - Sistemas complexos  
 - Demora  
 - Falta de clareza  
 
 ### Ganhos
+
 - Rapidez  
 - Simplicidade  
 - Eficiência  
@@ -339,13 +366,13 @@ Jailson é agricultor e prefere soluções práticas. Não tem familiaridade com
 # Conclusão
 
 As personas representam diferentes perfis de usuários que enfrentam dificuldades com tecnologia e acesso a serviços.  
-Os mapas de empatia ajudam a compreender melhor suas necessidades, dores e expectativas, orientando o desenvolvimento de soluções mais acessíveis, simples e eficientes.
+Os mapas de empatia ajudam a compreender melhor suas necessidades, dores e expectativas, orientando o desenvolvimento de soluções mais acessíveis, simples e eficientes
 
 ---
 
 # Product Design
 
-Nesse momento, vamos transformar os insights e validações obtidos em soluções tangíveis e utilizáveis. Essa fase envolve a definição de uma proposta de valor, detalhando a prioridade de cada ideia e a consequente criação de wireframes, mockups e protótipos de alta fidelidade, que detalham a interface e a experiência do usuário.
+Nesse momento, vamos transformar os insights e validações obtidos em soluções tangíveis e utilizáveis. Essa fase envolve a definição de uma proposta de valor, detalhando a prioridade de cada ideia e a consequente criação de wireframes, mockups e protótipos de alta fidelidade, que detalham a interface e a experiência do usuário
 
 ## Histórias de Usuários
 
@@ -405,14 +432,14 @@ Com base na análise das personas foram identificadas as seguintes histórias de
 
 # Conclusão
 
-As histórias de usuário refletem diretamente as necessidades reais das personas, garantindo que a solução desenvolvida seja acessível, eficiente e centrada no usuário.  
-O foco principal é reduzir a complexidade, aumentar a confiança e promover autonomia no uso da tecnologia.
+As histórias de usuário refletem diretamente as necessidades reais das personas, garantindo que a solução desenvolvida seja acessível, eficiente e centrada no usuário 
+O foco principal é reduzir a complexidade, aumentar a confiança e promover autonomia no uso da tecnologia
 
 ## Proposta de Valor
 
 # Requisitos e Proposta de Valor
 
-A seguir estão os requisitos funcionais e não funcionais definidos para a solução, seguidos pela proposta de valor que conecta estas funcionalidades às necessidades da nossa persona.
+A seguir estão os requisitos funcionais e não funcionais definidos para a solução, seguidos pela proposta de valor que conecta estas funcionalidades às necessidades da nossa persona
 
 ---
 
@@ -452,7 +479,7 @@ A seguir estão os requisitos funcionais e não funcionais definidos para a solu
 
 ## Proposta de Valor 
 
-Com base na análise da nossa persona **Rafaela Silva Soares**, estruturamos a nossa proposta de valor para garantir que a solução técnica resolva as dificuldades reais de acesso à informação.
+Com base na análise da nossa persona **Rafaela Silva Soares**, estruturamos a nossa proposta de valor para garantir que a solução técnica resolva as dificuldades reais de acesso à informação
 
 ### Visualização do Canvas
 
@@ -466,71 +493,68 @@ Com base na análise da nossa persona **Rafaela Silva Soares**, estruturamos a n
 
 **Criadores de Ganhos**
 
-* Autonomia Informacional: O cidadão entende os seus direitos sem depender de terceiros.
-* Segurança Jurídica: Informações verificadas que reduzem o medo de perder benefícios.
-* Agilidade: Redução de filas e deslocamentos desnecessários através de informação centralizada.
+* Autonomia Informacional: O cidadão entende os seus direitos sem depender de terceiros
+* Segurança Jurídica: Informações verificadas que reduzem o medo de perder benefícios
+* Agilidade: Redução de filas e deslocamentos desnecessários através de informação centralizada
 
 **Aliviadores de Dores**
 
-* Tradução de Linguagem: Substituição do "juridiquês" por termos do dia a dia.
-* Interface Assistiva: Botões grandes e fluxos simplificados para quem tem baixa alfabetização digital.
-* Apoio Visual: Passo a passo com ícones e cores que guiam a utilizadora sem erros.
+* Tradução de Linguagem: Substituição do "juridiquês" por termos do dia a dia
+* Interface Assistiva: Botões grandes e fluxos simplificados para quem tem baixa alfabetização digital
+* Apoio Visual: Passo a passo com ícones e cores que guiam a utilizadora sem erros
 
 ---
 
 ## Conclusão
 
-Os requisitos e a proposta de valor foram definidos com foco na simplicidade, acessibilidade e eficiência. O objetivo central é garantir que utilizadores com baixa familiaridade tecnológica, como a **Rafaela Silva Soares**, consigam utilizar a plataforma com total autonomia, segurança e dignidade, eliminando as barreiras entre o cidadão e os seus direitos.
+Os requisitos e a proposta de valor foram definidos com foco na simplicidade, acessibilidade e eficiência. O objetivo central é garantir que utilizadores com baixa familiaridade tecnológica, como a **Rafaela Silva Soares**, consigam utilizar a plataforma com total autonomia, segurança e dignidade, eliminando as barreiras entre o cidadão e os seus direitos
 
 ## Projeto de Interface
 
-Artefatos relacionados com a interface e a interacão do usuário na proposta de solução.
+Artefatos relacionados com a interface e a interacão do usuário na proposta de solução
 
-### Wireframes
-
-Estes são os protótipos de telas do sistema.
 ### Wireframes
 
 #### 1. Tela de Formulário (Perfil do Usuário)
 
-Interface para captação de dados básicos e filtragem de benefícios.
+Interface para captação de dados básicos e filtragem de benefícios
 
 ![Wireframe 1](images/wireframe-1.jpg)
 
 #### 2. Tela Inicial (Dashboard)
 
-Exibição dos benefícios disponíveis com foco em leitura e acessibilidade.
+Exibição dos benefícios disponíveis com foco em leitura e acessibilidade
 
 ![Wireframe 2](images/wireframe-2.jpg)
 
 #### 3. Detalhes do Benefício
 
-Página com informações sobre documentos, valores e exigências.
+Página com informações sobre documentos, valores e exigências
 
 ![Wireframe 3](images/wireframe-3.jpg)
 
 #### 4. Listagem de Benefícios Futuros
 
-Calendário e informações sobre auxílios que ainda serão liberados.
+Calendário e informações sobre auxílios que ainda serão liberados
 
 ![Wireframe 4](images/wireframe-4.jpg)
 
 ### User Flow
 
-O diagrama abaixo ilustra o caminho que a Rafaela percorre desde a entrada no sistema até a descoberta dos locais de atendimento.
+O diagrama abaixo ilustra o caminho que a Rafaela percorre desde a entrada no sistema até a descoberta dos locais de atendimento
 
 ![User Flow do Projeto](images/fluxograma-tiaw.jpg)
 
 **Caminho Principal:**
 
-1. Entrada no Formulário de Perfil.
-2. Visualização da Lista Personalizada (Home).
-3. Seleção de um Benefício Específico.
-4. Consulta de Documentos e Locais de Atendimento.
+1. Entrada no Formulário de Perfil
+2. Visualização da Lista Personalizada (Home)
+3. Seleção de um Benefício Específico
+4. Consulta de Documentos e Locais de Atendimento
 
 ### Protótipo Interativo
 
-O protótipo permite navegar pelas telas e validar a usabilidade da solução proposta no Figma.
+O protótipo permite navegar pelas telas e validar a usabilidade da solução proposta no Figma
 
 [Acesse o Protótipo Interativo aqui](https://marvelapp.com/prototype/1cgd0769/screen/98665964)
 
@@ -540,7 +564,7 @@ O protótipo permite navegar pelas telas e validar a usabilidade da solução pr
 
 ## Ferramentas
 
-Relação de ferramentas empregadas pelo grupo para garantir a colaboração e a qualidade técnica.
+Relação de ferramentas empregadas pelo grupo para garantir a colaboração e a qualidade técnica
 
 | Ambiente                    | Plataforma   | Justificativa |
 | --------------------------- | ------------ | ------------- |
@@ -552,17 +576,16 @@ Relação de ferramentas empregadas pelo grupo para garantir a colaboração e a
 
 ## Gerenciamento do Projeto
 
-O grupo utiliza metodologias ágeis (Scrum/Kanban) para a organização das tarefas.
+O grupo utiliza metodologias ágeis (Scrum/Kanban) para a organização das tarefas
 
 * **Divisão de Papéis:**
 
-    * **Scrum Master:** Responsável por remover impedimentos e organizar as cerimônias.
-    * **Product Owner:** Define as prioridades com base nas dores da persona Rafaela.
-    * **Equipe de Desenvolvimento:** Implementação técnica e design de interface.
+    * **Scrum Master:** Responsável por remover impedimentos e organizar as cerimônias
+    * **Product Owner:** Define as prioridades com base nas dores da persona Rafaela
+    * **Equipe de Desenvolvimento:** Implementação técnica e design de interface
 
-* **Processo:** As tarefas são gerenciadas via **GitHub Projects**, onde acompanhamos o status de cada requisito (Backlog, Em Andamento, Revisão e Concluído).
+* **Processo:** As tarefas são gerenciadas via **GitHub Projects**, onde acompanhamos o status de cada requisito (Backlog, Em Andamento, Revisão e Concluído)
 
-![Quadro Kanban do Projeto](images/kanban-projeto.png)
 
 # Solução Implementada
 
