@@ -481,7 +481,7 @@ Com base na análise da nossa persona **Rafaela Silva Soares**, estruturamos a n
 ## Conclusão
 
 Os requisitos e a proposta de valor foram definidos com foco na simplicidade, acessibilidade e eficiência. O objetivo central é garantir que utilizadores com baixa familiaridade tecnológica, como a **Rafaela Silva Soares**, consigam utilizar a plataforma com total autonomia, segurança e dignidade, eliminando as barreiras entre o cidadão e os seus direitos.
-```
+
 ## Projeto de Interface
 
 Artefatos relacionados com a interface e a interacão do usuário na proposta de solução.
