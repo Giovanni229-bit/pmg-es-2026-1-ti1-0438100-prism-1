@@ -167,7 +167,7 @@ Este documento apresenta as personas identificadas no projeto, juntamente com se
 
 # Persona 1: Rafaela Silva Soares
 
-![Rafaela](images/persona-1.png)
+![Rafaela](images/PERSONA-1.png)
 
 **Idade:** 40 anos  
 **Ocupação:** Trabalhadora Informal (Manicure)
@@ -227,7 +227,7 @@ Rafaela é uma trabalhadora informal que atua como manicure e busca estabilidade
 
 # Persona 2: Sônia da Silva
 
-![Sônia](images/persona-2.png)
+![Sônia](images/PERSONA-2.png)
 
 **Idade:** 78 anos  
 **Ocupação:** Aposentada  
@@ -286,7 +286,7 @@ Sônia é aposentada e depende de sua renda para sobreviver. Possui dificuldade 
 
 # Persona 3: Jailson Pereira
 
-![Jailson](images/persona-3.png)
+![Jailson](images/PERSONA-3.png)
 
 **Idade:** 62 anos  
 **Ocupação:** Agricultor  
