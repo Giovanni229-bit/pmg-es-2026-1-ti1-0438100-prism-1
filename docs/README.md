@@ -165,7 +165,7 @@ Nesta seção, detalhamos as Personas que representam nossos usuários reais, pe
 
 # Persona: Rafaela Silva Soares
 
-![Rafaela Silva Soares](images/PERSONA%201.jpg)
+![Rafaela Silva Soares](images/PERSONA%201.png)
 
 **Idade:** 40 anos  
 **Ocupação:** Trabalhadora Informal (Manicure)
