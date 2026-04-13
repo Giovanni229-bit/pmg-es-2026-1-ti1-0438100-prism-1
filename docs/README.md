@@ -2,14 +2,18 @@
 
 Informações básicas do projeto.
 
-* **Projeto:** [NOME DO PROJETO]
+* **Projeto:** Guia-Beneficio
 * **Repositório GitHub:** [LINK PARA O REPOSITÓRIO NO GITHUB]
 * **Membros da equipe:**
 
-  * [Fulano](https://github.com/fulano) ⚠️ EXEMPLO ⚠️
-  * [Beltrano](https://github.com/beltrano) ⚠️ EXEMPLO ⚠️
-  * [Cicrano](https://github.com/cicrano) ⚠️ EXEMPLO ⚠️
-
+  * [Theo Goulart Cardoso Vasconcelos](https://github.com/TheoGoulart333) 
+  * [Daniel Heber de Souza Godinho](https://github.com/DETTRANN)
+  * [Paulo César Silva Monteiro](https://github.com/PauloCesar0709)
+  * [Lucas Gomes Esteves da Silva](https://github.com/LukasGom3s)
+  * [Mateus Canuto Marques](https://github.com/MATEUSCANUTOPUC)
+  * [Giovanni Oliveira Martins Rosa](https://github.com/Giovanni229-bit)
+  * [Bernardo Alvim Fagundes de Andrade](https://github.com/beAndradeAf)
+    
 A documentação do projeto é estruturada da seguinte forma:
 
 1. Introdução
@@ -28,56 +32,108 @@ Detalhes sobre o espaço de problema, os objetivos do projeto, sua justificativa
 
 ## Problema
 
-**✳️✳️✳️ COLOQUE AQUI O SEU TEXTO ✳️✳️✳️**
+Diante da dificuldade de centralização e simplificação das informações sobre direitos sociais, define-se o seguinte problema:
 
-> ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
->
-> Nesse momento você deve apresentar o problema que a sua aplicação deve resolver. No entanto, não é a hora de comentar sobre a aplicação. Descreva também o contexto em que essa aplicação será usada, se houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de fato existir, pois ainda não é a hora de apresentar requisitos detalhados ou projetos.
->
-> **Orientações**:
->
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+"Quais são os principais obstáculos informacionais que impedem os cidadãos brasileiros de identificarem e solicitarem os benefícios governamentais de forma autônoma?"
 
 ## Objetivos
 
-**✳️✳️✳️ COLOQUE AQUI O SEU TEXTO ✳️✳️✳️**
+Objetivo Geral:
 
-> ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
->
-> Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
->
-> **Orientações**:
->
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+Analisar e identificar as barreiras de acesso à informação sobre benefícios governamentais, visando compreender como facilitar o caminho entre o cidadão e seus direitos
+
+Objetivos Específicos:
+
+- Levantar os principais benefícios governamentais vigentes e seus requisitos básicos
+
+- Identificar as maiores dúvidas e suposições da população em relação ao acesso a auxílios (através da Matriz CSD)
+
+- Mapear os fluxos atuais de busca por informações governamentais e identificar pontos de fricção
+
+- Propor diretrizes de organização de conteúdo que tornem as informações mais claras para o público-alvo
 
 ## Justificativa
 
-**✳️✳️✳️ COLOQUE AQUI O SEU TEXTO ✳️✳️✳️**
-
-> ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
->
-> Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
->
-> O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
->
-> **Orientações**:
->
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+A realização deste estudo justifica-se pela necessidade de democratizar o acesso à informação pública de natureza social. Para a sociedade, a relevância reside no potencial de reduzir a exclusão social causada pela desinformação, garantindo que direitos constitucionais sejam efetivamente exercidos. Do ponto de vista acadêmico e profissional para estudantes de tecnologia, o estudo permite explorar como o design de interface e a arquitetura de informação podem ser aplicados para resolver problemas sociais complexos, transformando dados brutos do governo em conhecimento útil e acessível para o cidadão comum
 
 ## Público-Alvo
 
-**✳️✳️✳️ COLOQUE AQUI O SEU TEXTO ✳️✳️✳️**
+# Mercado e Público-Alvo
 
-> ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
->
-> Descreva o mercado para o qual a solução está sendo desenvolvida, detalhando um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações hierárquicas, etc. Adicione informações sobre o público-alvo por meio de uma descrição textual ou por meio do mapa de stakeholders, ou como o grupo achar mais conveniente.
->
-> **Orientações**:
->
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+## 1. Mercado: GovTech e Tecnologia Social
+
+A solução está inserida no ecossistema de **GovTechs** e inovação para o setor público. O foco primordial não é o lucro comercial direto, mas a eficiência na entrega de serviços públicos e o fortalecimento da cidadania
+
+* **Cenário Atual:** Atualmente, o mercado é dominado por portais governamentais robustos (como o Gov.br), que, embora completos, são densos e burocráticos. Existe uma lacuna para soluções de **"última milha"** — ferramentas que traduzam essa complexidade para a linguagem do cidadão comum
+* **Oportunidade:** Alta demanda por interfaces simplificadas que operem com fluidez em dispositivos móveis de baixo desempenho e sob conexões de internet instáveis
+
+---
+
+## 2. Perfil Detalhado dos Usuários
+
+### A. Conhecimentos Prévios e Alfabetização Informacional
+
+* **Domínio de Termos:** O usuário típico desconhece o vocabulário administrativo (ex: *"cadastramento"*, *"deferimento"*, *"per capita"*). O seu conhecimento sobre direitos é fragmentado, baseado em fontes informais como rádio, TV ou boatos de redes sociais.
+  
+* **Barreira Linguística:** Existe dificuldade em interpretar textos longos ou instruções com múltiplos passos. A busca por informação é feita de forma direta e urgente (ex: *"como receber o auxílio gás"*)
+
+### B. Relação com a Tecnologia (Inclusão Digital)
+
+* **Uso de Dispositivos:** O acesso é feito quase exclusivamente via dispositivos móveis. Trata-se de aparelhos, na sua maioria, de entrada ou gerações antigas, com limitações de memória e processamento
+  
+* **Comportamento Digital:** O usuário domina ferramentas visuais e de áudio (como o WhatsApp), mas sente-se intimidado por formulários complexos e interfaces que exigem login/senha ou múltiplos redirecionamentos
+  
+* **Custo de Conectividade:** A experiência é ditada pela disponibilidade de dados móveis. A solução deve ser leve para não consumir o plano de dados limitado do usuário
+
+### C. Relações Hierárquicas e Psicossociais
+
+* **Posição de Vulnerabilidade:** O cidadão sente-se frequentemente numa posição de inferioridade perante o Estado. A burocracia é vista como um obstáculo intransponível, gerando frustração e desistência
+  
+* **Mediação Interpessoal (Rede de Apoio):** É comum a existência de uma hierarquia de apoio familiar. Idosos ou pessoas com baixa alfabetização digital dependem de um "mediador" (neto, vizinho ou agente comunitário). A ferramenta deve servir tanto ao beneficiário final quanto ao facilitador
+
+---
+
+## 3. Mapa de Stakeholders (Partes Interessadas)
+
+O mapeamento abaixo descreve a rede de influência ao redor da solução:
+
+### **Stakeholders Primários (Usuários Diretos)**
+
+* Cidadãos em situação de insegurança financeira
+* Trabalhadores informais e rurais que buscam regularização
+* Pessoas com Deficiência (PcD) e idosos que buscam auxílios específicos
+
+### **Stakeholders Secundários (Facilitadores)**
+
+* **Assistentes Sociais (CRAS/CREAS):** Podem utilizar a aplicação como guia rápido nos seus atendimentos
+* **Líderes Comunitários:** Replicam a informação em bairros periféricos e zonas rurais
+* **Familiares:** Jovens que realizam a pesquisa para os mais velhos
+* 
+### **Stakeholders Terciários (Provedores de Dados)**
+
+* **Órgãos Governamentais (MDS, INSS, Caixa Econômica):** Instituições que detêm as regras, os dados e os fundos dos benefícios
+
+---
+
+## 4. Síntese do Público-Alvo
+
+| Atributo | Descrição para o Projeto |
+| :--- | :--- |
+| **Escolaridade** | Fundamental incompleto a Médio. |
+| **Principais Apps** | WhatsApp, Facebook, YouTube e Apps Bancários. |
+| **Dificuldade Central** | Entender as regras para ter acesso ao direito. |
+| **Expectativa** | Rapidez, clareza e segurança na informação. |
+| **Relação com o Estado** | Desconfiança e sensação de burocracia excessiva. |
+
+
+ - Pessoas idosas
+ - Famílias de baixa renda
+ - Trabalhadores informais
+ - Pessoas desempregadas
+ - Pessoas em vulnerabilidade social
+ - Pessoas com deficiência
+ - Trabalhadores rurais
+ - Pessoas com baixa alfabetização digital
 
 # Product Discovery
 
