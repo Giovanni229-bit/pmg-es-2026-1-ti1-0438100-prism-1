@@ -139,16 +139,7 @@ O mapeamento abaixo descreve a rede de influência ao redor da solução:
 
 ## Etapa de Entendimento
 
-**✳️✳️✳️ APRESENTE OS ARTEFATOS DA ETAPA  ✳️✳️✳️**
 
-> ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
->
-> Nessa etapa, vamos trabalhar com a metdologia de Design Thinking para compreender com maior profundidade o problema a ser tratado. Nesse processo, vamos elaborar:
->
-> * **Matriz CSD**: também conhecida por Matriz de Alinhamento, é uma ferramenta utilizada no Design Thinking para organizar informações e facilitar o processo de tomada de decisão e solução de problemas;
-> * **Mapa de stakeholders**: ferramenta que nos permite compreender o grupo de pessoas e entidades que devemos estudar e conversar para entender mais sobre o problema
-> * **Entrevistas qualitativas**: série de entrevistas qualitativas para validar suposições e solucionar as dúvidas com as principais pessoas envolvidas;
-> * **Highlights de pesquisa**: um compilado do levantamento realizado por meio das entrevistas.
 
 ## Etapa de Definição
 
@@ -419,33 +410,78 @@ O foco principal é reduzir a complexidade, aumentar a confiança e promover aut
 
 ## Proposta de Valor
 
-**✳️✳️✳️ APRESENTE O DIAGRAMA DA PROPOSTA DE VALOR PARA CADA PERSONA ✳️✳️✳️**
+# Requisitos e Proposta de Valor
 
-##### Proposta de valor para Persona XPTO ⚠️ EXEMPLO ⚠️
+A seguir estão os requisitos funcionais e não funcionais definidos para a solução, seguidos pela proposta de valor que conecta estas funcionalidades às necessidades da nossa persona.
 
-![Exemplo de proposta de valor](images/exemplo-proposta-valor.png)
+---
 
-> ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
->
-> O mapa da proposta de valor é uma ferramenta que nos ajuda a definir qual tipo de produto ou serviço melhor atende às personas definidas anteriormente.
+## Requisitos Funcionais
 
-## Requisitos
+| ID | Descrição do Requisito | Prioridade |
+|----|----------------------|-----------|
+| RF-001 | Permitir que o usuário consulte seus benefícios disponíveis | ALTA |
+| RF-002 | Exibir informações sobre benefícios de forma clara e simplificada | ALTA |
+| RF-003 | Mostrar passo a passo para solicitação de benefícios | ALTA |
+| RF-004 | Informar os documentos necessários para cada benefício | ALTA |
+| RF-005 | Permitir que o usuário acompanhe o status de suas solicitações | MÉDIA |
+| RF-006 | Enviar notificações sobre prazos e atualizações | MÉDIA |
+| RF-007 | Disponibilizar uma interface com botões grandes e acessíveis | ALTA |
+| RF-008 | Permitir navegação simples com poucas etapas | ALTA |
+| RF-009 | Apresentar confirmação de segurança e confiabilidade da plataforma | ALTA |
+| RF-010 | Permitir busca rápida por benefícios ou informações | MÉDIA |
 
-As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
+---
 
-### Requisitos Funcionais
+## Requisitos Não Funcionais
 
-| ID     | Descrição do Requisito                                   | Prioridade |
-| ------ | ---------------------------------------------------------- | ---------- |
-| RF-001 | Permitir que o usuário cadastre tarefas ⚠️ EXEMPLO ⚠️ | ALTA       |
-| RF-002 | Emitir um relatório de tarefas no mês ⚠️ EXEMPLO ⚠️ | MÉDIA     |
+| ID | Descrição do Requisito | Prioridade |
+|----|----------------------|-----------|
+| RNF-001 | O sistema deve ser responsivo para dispositivos móveis | ALTA |
+| RNF-002 | O sistema deve ter interface simples e intuitiva | ALTA |
+| RNF-003 | O tempo de resposta deve ser inferior a 3 segundos | MÉDIA |
+| RNF-004 | O sistema deve garantir segurança dos dados do usuário | ALTA |
+| RNF-005 | O sistema deve utilizar linguagem acessível (sem termos técnicos) | ALTA |
+| RNF-006 | O sistema deve funcionar em smartphones de baixo desempenho | ALTA |
+| RNF-007 | O sistema deve minimizar a quantidade de etapas para conclusão de tarefas | ALTA |
+| RNF-008 | O sistema deve garantir alta disponibilidade (acesso contínuo) | MÉDIA |
+| RNF-009 | O sistema deve ser compatível com navegadores modernos | MÉDIA |
+| RNF-010 | O sistema deve fornecer feedback visual para ações do usuário | ALTA |
 
-### Requisitos não Funcionais
+---
 
-| ID      | Descrição do Requisito                                                              | Prioridade |
-| ------- | ------------------------------------------------------------------------------------- | ---------- |
-| RNF-001 | O sistema deve ser responsivo para rodar em um dispositivos móvel ⚠️ EXEMPLO ⚠️ | MÉDIA     |
-| RNF-002 | Deve processar requisições do usuário em no máximo 3s ⚠️ EXEMPLO ⚠️          | BAIXA      |
+## Proposta de Valor (Value Proposition Canvas)
+
+Com base na análise da nossa persona **Rafaela Silva Soares**, estruturamos a nossa proposta de valor para garantir que a solução técnica resolva as dificuldades reais de acesso à informação.
+
+### Visualização do Canvas
+
+| Proposta de Valor 1 | Proposta de Valor 2 | Proposta de Valor 3 |
+| :---: | :---: | :---: |
+| ![PV 1](images/Proposta-de-valor-1.png) | ![PV 2](images/Proposta-de-valor-2.png) | ![PV 3](images/Proposta-de-valor-3.png) |
+
+---
+
+### Análise Estratégica
+
+**Criadores de Ganhos**
+
+* Autonomia Informacional: O cidadão entende os seus direitos sem depender de terceiros.
+* Segurança Jurídica: Informações verificadas que reduzem o medo de perder benefícios.
+* Agilidade: Redução de filas e deslocamentos desnecessários através de informação centralizada.
+
+**Aliviadores de Dores**
+
+* Tradução de Linguagem: Substituição do "juridiquês" por termos do dia a dia.
+* Interface Assistiva: Botões grandes e fluxos simplificados para quem tem baixa alfabetização digital.
+* Apoio Visual: Passo a passo com ícones e cores que guiam a utilizadora sem erros.
+
+---
+
+## Conclusão
+
+Os requisitos e a proposta de valor foram definidos com foco na simplicidade, acessibilidade e eficiência. O objetivo central é garantir que utilizadores com baixa familiaridade tecnológica, como a **Rafaela Silva Soares**, consigam utilizar a plataforma com total autonomia, segurança e dignidade, eliminando as barreiras entre o cidadão e os seus direitos.
+```
 
 > ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
 >
