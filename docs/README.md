@@ -178,6 +178,7 @@ Rafaela é uma trabalhadora informal que atua como manicure e vive uma rotina co
 ---
 
 ## Objetivos
+
 - Garantir mais estabilidade financeira para sua família  
 - Oferecer melhores condições de vida para seus filhos  
 - Entender melhor seus direitos  
@@ -187,6 +188,7 @@ Rafaela é uma trabalhadora informal que atua como manicure e vive uma rotina co
 ---
 
 ## Dores
+
 - Dificuldade em lidar com processos burocráticos  
 - Insegurança ao buscar informações formais  
 - Falta de clareza sobre seus direitos  
@@ -196,6 +198,7 @@ Rafaela é uma trabalhadora informal que atua como manicure e vive uma rotina co
 ---
 
 ## Objetos e Lugares
+
 - Smartphone Android intermediário  
 - Internet via dados móveis  
 - Apps: WhatsApp, Instagram, Google e YouTube  
@@ -206,6 +209,7 @@ Rafaela é uma trabalhadora informal que atua como manicure e vive uma rotina co
 ---
 
 ## Necessidades
+
 - Informações claras e objetivas  
 - Linguagem simples (sem termos técnicos)  
 - Processos rápidos e diretos  
@@ -215,12 +219,14 @@ Rafaela é uma trabalhadora informal que atua como manicure e vive uma rotina co
 ---
 
 ## Personalidade
+
 Responsável, esforçada e resiliente.  
 Valoriza praticidade, clareza e agilidade.
 
 ---
 
 ## Como devemos tratá-la
+
 - Usar linguagem simples e direta  
 - Evitar termos técnicos ou complicados  
 - Oferecer passo a passo claro  
@@ -242,6 +248,84 @@ Valoriza praticidade, clareza e agilidade.
 - Dar uma vida melhor para os filhos  
 - Alcançar estabilidade financeira  
 - Formalizar seu trabalho no futuro  |
+
+# Persona: Sônia da Silva
+
+![Sônia da Silva](images/PERSONA-2.png)
+
+**Idade:** 78 anos  
+**Ocupação:** Aposentada  
+
+---
+
+## Bio
+Sônia é uma senhora aposentada que depende de sua aposentadoria para sobreviver e pagar suas contas. Ela vive uma rotina tranquila, mas enfrenta dificuldades ao lidar com tecnologia e processos burocráticos. Apesar disso, tem interesse em aprender para conquistar mais autonomia no seu dia a dia.
+
+---
+
+## Objetivos
+- Conseguir retirar sua aposentadoria com facilidade  
+- Entender processos burocráticos do governo  
+- Acessar informações de forma simples  
+- Realizar tarefas de forma autônoma  
+- Ter mais autonomia e liberdade  
+
+---
+
+## Dores
+- Dificuldade com tecnologia e ferramentas digitais  
+- Não entende processos complexos ou com muitas etapas  
+- Depende de terceiros (filhos e netos)  
+- Frustração ao lidar com sistemas confusos  
+- Medo de errar ao utilizar aplicativos  
+
+---
+
+## Objetos e Lugares
+- Smartphone Android antigo (com Wi-Fi)  
+- Apps: WhatsApp, Facebook e contatos do telefone  
+- Uso ao longo do dia, principalmente manhã e noite  
+- Frequenta lotérica e Caixa Econômica Federal  
+- Vai a postos de saúde públicos  
+- Pede ajuda a filhos e netos para resolver problemas  
+
+---
+
+## Necessidades
+- Interface simples e fácil de entender  
+- Linguagem clara e objetiva  
+- Passo a passo prático  
+- Evitar processos demorados  
+- Apoio para ganhar autonomia digital  
+
+---
+
+## Personalidade
+Meiga, responsável, calma e extrovertida.
+
+---
+
+## Como devemos tratá-la
+- Usar linguagem simples e acessível  
+- Explicar de forma prática e objetiva  
+- Evitar termos técnicos  
+- Reduzir etapas e complexidade  
+- Ensinar passo a passo com clareza  
+
+---
+
+## Nunca devemos
+- Criar processos complexos ou longos  
+- Exigir conhecimento tecnológico avançado  
+- Apresentar informações confusas  
+- Fazer com que ela se sinta dependente  
+- Gerar frustração ou desânimo  
+
+---
+
+## Sonhos
+- Ser totalmente independente  
+- Ter uma vida tranquila até o fim  
 
 > ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
 >
