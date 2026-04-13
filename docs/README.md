@@ -158,6 +158,48 @@ O mapeamento abaixo descreve a rede de influência ao redor da solução:
 
 ![Persona do Projeto](images/PERSONA%201.png)
 
+# 👤 Personas e Mapas de Empatia
+
+Nesta seção, detalhamos as Personas que representam nossos usuários reais, permitindo que a solução seja desenhada focando em necessidades humanas específicas.
+
+---
+
+## 1. Persona 1: [Nome da Persona, ex: Dona Maria]
+
+![Persona 1](images/PERSONA%201.png)
+
+### **Perfil e Biografia**
+
+* **Idade:** [Ex: 62 anos]
+* **Ocupação:** [Ex: Aposentada / Trabalhadora informal]
+* **Contexto:** [Descreva brevemente a história dela. Ex: Dona Maria cuida dos netos e depende do auxílio para completar a renda da casa, mas tem medo de usar o celular para resolver assuntos do governo.]
+
+### **Dores e Necessidades**
+
+* **Frustração:** Dificuldade em entender palavras difíceis nos sites oficiais.
+* **Necessidade:** Uma forma simples de saber se tem direito a novos auxílios sem precisar ir até o centro da cidade.
+* **Objetivo:** Garantir a segurança financeira da família com autonomia.
+
+---
+
+## 2. Mapa de Empatia
+
+O Mapa de Empatia nos ajuda a mergulhar no mundo da nossa Persona, entendendo o que ela sente e ouve no dia a dia.
+
+| Quadrante | Descrição |
+| :--- | :--- |
+| **O que ela VÊ?** | Filas em bancos, notícias confusas na TV, vizinhos comentando sobre "dinheiro do governo". |
+| **O que ela OUVE?** | "É muito difícil conseguir", "Cuidado para não ser golpe", "Peça para o seu neto ver isso". |
+| **O que ela PENSA/SENTE?** | Insegurança com a tecnologia, medo de perder o que já tem, esperança de ter uma vida melhor. |
+| **O que ela FALA/FAZ?** | Pergunta para o líder comunitário, tenta usar o WhatsApp, guarda documentos em pastas físicas. |
+
+---
+
+### **Análise de Esforços e Ganhos**
+
+* **Esforços (Dores):** Medo de errar no cadastro, gasto com passagens para ir ao CRAS, tempo perdido em sites lentos.
+* **Ganhos (Desejos):** Facilidade em entender os requisitos, confirmação de que o processo deu certo, acesso rápido à informação.
+
 > ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
 >
 > Relacione as personas identificadas no seu projeto e os respectivos mapas de empatia. Lembre-se que você deve ser enumerar e descrever precisamente e de forma personalizada todos os principais envolvidos com a solução almeja.
