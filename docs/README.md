@@ -156,7 +156,7 @@ O mapeamento abaixo descreve a rede de influência ao redor da solução:
 
 **✳️✳️✳️ APRESENTE OS DIAGRAMAS DE PERSONAS ✳️✳️✳️**
 
-![Exemplo de proposta de valor](images/exemplo-persona.png)
+![Persona do Projeto](images/PERSONA%201.png)
 
 > ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
 >
