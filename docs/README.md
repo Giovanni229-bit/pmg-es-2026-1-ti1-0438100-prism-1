@@ -489,29 +489,37 @@ Artefatos relacionados com a interface e a interacão do usuário na proposta de
 ### Wireframes
 
 Estes são os protótipos de telas do sistema.
+### Wireframes
 
-#### 1. Tela de Formulário de Perfil
+#### 1. Tela de Formulário (Perfil do Usuário)
 
-Interface inicial onde o usuário insere dados básicos (idade, faixa salarial, profissão) para filtrar os direitos compatíveis
-* **Destaque:** Uso de campos de seleção simples para evitar digitação excessiva
-![Wireframe Formulário](images/wireframe-1.pdf)
+Interface para captação de dados básicos e filtragem de benefícios.
 
-#### 2. Tela Inicial (Dashboard de Benefícios)
+![Wireframe 1](images/wireframe-1.png)
 
-Exibe os benefícios em destaque e categorias como "Principais Benefícios" e "Novos Benefícios"
-* **Destaque:** Cards grandes com botões de "Saiba Mais" bem visíveis
-![Wireframe Home](images/wireframe-2.pdf)
+#### 2. Tela Inicial (Dashboard)
 
-#### 3. Tela de Detalhes do Benefício
+Exibição dos benefícios disponíveis com foco em leitura e acessibilidade.
 
-Apresenta a descrição do auxílio, valor, exigências e a documentação necessária
-* **Destaque:** Botão de ação para visualizar locais físicos de solicitação
-![Wireframe Detalhes](images/wireframe-3.pdf)
+![Wireframe 2](images/wireframe-2.png)
+
+#### 3. Detalhes do Benefício
+
+Página com informações sobre documentos, valores e exigências.
+
+![Wireframe 3](images/wireframe-3.png)
 
 #### 4. Listagem de Benefícios Futuros
 
-Informa o usuário sobre auxílios que ainda serão liberados, permitindo o planejamento familiar
-![Wireframe Futuros](images/wireframe-4.pdf)
+Calendário e informações sobre auxílios que ainda serão liberados.
+
+![Wireframe 4](images/wireframe-4.png)
+
+### User Flow
+
+O fluxo de navegação completo desenhado para a jornada da Rafaela.
+
+![Fluxo de Usuário](images/fluxograma.png)
 
 ### User Flow
 
